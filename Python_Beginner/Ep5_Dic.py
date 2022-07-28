@@ -9,8 +9,7 @@ for i,j in dicB.items():
     print("Key: ", i, "Value: ", j)
 
 
-market = {
-    "ShopA":{
+market = {"ShopA":{
         "name":"MR.A",
         "price":"100"
     },
